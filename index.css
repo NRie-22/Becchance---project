@@ -20,7 +20,7 @@ body {
 
   &.active {
     font-weight: bold;
-    color: #fb923c;
+    color: #c79368;
   }
 
   &.neighbor {
@@ -55,7 +55,7 @@ body {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background: #993d21;
+  background: #da5026;
 }
 
 ::-webkit-scrollbar-thumb:hover {
