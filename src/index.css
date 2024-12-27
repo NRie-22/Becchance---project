@@ -20,7 +20,7 @@ body {
 
   &.active {
     font-weight: bold;
-    color: #d56810;
+    color: #fb923c;
   }
 
   &.neighbor {

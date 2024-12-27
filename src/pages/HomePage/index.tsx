@@ -61,7 +61,7 @@ const HomePage = () => {
         >
           <TitleH1>
             Hello, this is <br />
-            <NameLetters name='Nataliya' /> <br />
+            <NameLetters name='Roksolana Kushnir' /> <br />
             I'm a <TextSpecialty>Frontend Developer</TextSpecialty>
           </TitleH1>
           <FlexBox justifyContent='center' gap='20px' margin='18px 0'>

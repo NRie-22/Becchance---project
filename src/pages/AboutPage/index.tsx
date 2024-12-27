@@ -8,7 +8,7 @@ const AboutPage = () => {
   return (
     <div>
       <PersonalPhoto
-        alt='Nataliya'
+        alt='Roksolana Kushnir'
         width={1000}
         height={1000}
         loading='lazy'

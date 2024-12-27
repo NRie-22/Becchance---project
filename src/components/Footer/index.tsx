@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <FooterStyle>
       <span>Copyright © {currentYear} </span>
-      <Creator href='https://github.com/Roksolyanka'>Nataliya</Creator>
+      <Creator href='https://github.com/Roksolyanka'>Roksolana Kushnir</Creator>
     </FooterStyle>
   );
 };

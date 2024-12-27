@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <HeaderStyle>
       <Logo as={Link} to='./'>
-      NR
+        RK
       </Logo>
       <ThemeToggler />
     </HeaderStyle>
