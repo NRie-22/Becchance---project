@@ -40,7 +40,7 @@ body {
 
   &.nameLetter:has(+ :hover) {
     font-weight: bold;
-    color: #fed0aa;
+    color: #dec5b1;
   }
 }
 
