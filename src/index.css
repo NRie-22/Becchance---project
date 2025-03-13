@@ -25,7 +25,7 @@ body {
 
   &.neighbor {
     font-weight: bold;
-    color: #fed0aa;
+    color: #78502f;
   }
 
   &:hover {
@@ -40,7 +40,7 @@ body {
 
   &.nameLetter:has(+ :hover) {
     font-weight: bold;
-    color: #dec5b1;
+    color: #a79a8f;
   }
 }
 
