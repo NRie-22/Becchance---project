@@ -59,6 +59,6 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #c4b6ae;
+  background: #ddd8d4;
   cursor: pointer;
 }
